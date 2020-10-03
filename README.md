@@ -22,13 +22,14 @@ This Repository will help you to Practice your JavaScript Skills with the help o
 |Array Scramble|
 |Fibonacci Series|
 |String to Base64|
-| Reject & Replace | 
+| Reject & Replace| 
 |Diamond Pattern|
 |Decimal to Binary|
 |Reverse a Number|
 |Multiplication of Table|
 |Sum of Natural Numbers|
 |Create Object in Different Ways|     
+|File Maker|
      
  
 ## Installation
